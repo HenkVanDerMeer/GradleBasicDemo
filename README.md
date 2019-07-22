@@ -9,3 +9,5 @@ Source: [Gradle Guides - Creating New Gradle Builds](https://guides.gradle.org/c
 2. select project type 6 (java-application) & remaining default settings
 
 ... or run `gradle init --type java-application --dsl groovy --test-framework junit`
+
+3. Have a beer
